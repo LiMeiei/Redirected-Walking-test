@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ResetPosition
+  - ResetScene
+  - Curvature 5 left
+  - Curvature 8 right
+  - Curvature 10 left
+  - Curvature 30 right
+  - Go To select stage
+  - Curvature 2.5 right
+  - Curvature 12.5 right
+  - Translation 0.5
+  - Curvature 2.5 left
+  - MoveForward
+  - Curvature 5 right
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
